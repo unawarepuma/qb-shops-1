@@ -1,5 +1,7 @@
 # qb-shops
-Shops For QB-Core
+Edited version of Qb-shops for Qb-masks: https://extremerp.tebex.io/package/4903596
+All credit to the author of Qb-shops resource
+Original resource: https://github.com/qbcore-framework/qb-shops
 
 # License
 
